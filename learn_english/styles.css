@@ -1,0 +1,50 @@
+
+
+@font-face {
+	font-family: IRAN;
+	font-style: normal;
+	font-weight: bold;
+	src: url('public/fonts/IRAN/eot/IRANBold.eot');
+	src: url('public/fonts/IRAN/eot/IRANBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('public/fonts/IRAN/woff2/IRANBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('public/fonts/IRAN/woff/IRANBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('public/fonts/IRAN/ttf/IRANBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: IRAN;
+	font-style: normal;
+	font-weight: 900;
+	src: url('public/fonts/IRAN/eot/IRANBlack.eot');
+	src: url('public/fonts/IRAN/eot/IRANBlack.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('public/fonts/IRAN/woff2/IRANBlack.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('public/fonts/IRAN/woff/IRANBlack.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('public/fonts/IRAN/ttf/IRANBlack.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRAN;
+	font-style: normal;
+	font-weight: 600;
+	src: url('public/fonts/IRAN/eot/IRAN_SemiBold.eot');
+	src: url('public/fonts/IRAN/eot/IRAN_SemiBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('public/fonts/IRAN/woff2/IRAN_SemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('public/fonts/IRAN/woff/IRAN_SemiBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('public/fonts/IRAN/ttf/IRAN_SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: IRAN;
+	font-style: normal;
+	font-weight: normal;
+	src: url('public/fonts/IRAN/eot/IRAN.eot');
+	src: url('public/fonts/IRAN/eot/IRAN.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('public/fonts/IRAN/woff2/IRAN.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('public/fonts/IRAN/woff/IRAN.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('public/fonts/IRAN/ttf/IRAN.ttf') format('truetype');
+}
+
+* {
+	font-family: IRAN  !important;
+	box-sizing: border-box;
+	
+}
